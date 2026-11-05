@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsonwebtoken": "^9.0.3",
+    "lucide-react": "^1.69.0"
+  }
+}
